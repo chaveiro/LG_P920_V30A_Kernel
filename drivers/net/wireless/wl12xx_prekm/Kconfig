@@ -1,0 +1,6 @@
+config WL12XX_PREKM
+	tristate
+	default m
+	---help---
+	  pre-kernel memory for wifi
+
